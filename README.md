@@ -1,2 +1,2 @@
 # inventario_procesos
-Proyecto de clase realizando una API en Spring Boot
+Proyecto de clase realizando una api en spring boot
